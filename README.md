@@ -52,6 +52,11 @@ Tool quản lý cookies cho BAS (Browser Automation Studio) - Lấy và nạp co
 
 ## Changelog
 
+### v1.1.2 (2026-01-02)
+- Thông báo toast hiển thị domain thay vì ID Request
+- Sửa màu thông báo dừng batch từ đỏ sang xanh
+- Cải thiện khoảng cách UI cho batch list
+
 ### v1.1.1 (2025-01-02)
 - Fix Cloudflare detection
 - Profile per ID Request để tránh logout
